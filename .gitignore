@@ -1,10 +1,17 @@
-bin/
-obj/
+# Visual Studio
 .vs/
 *.user
 *.suo
-*.pdb
-*.db
-*.cache
-*.exe
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Debug/Release
 *.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.tmp
+*.db
