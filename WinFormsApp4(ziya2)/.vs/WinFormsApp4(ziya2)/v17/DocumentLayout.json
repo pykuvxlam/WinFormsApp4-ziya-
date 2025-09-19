@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0413\u0440\u043E\u043C\\source\\repos\\WinFormsApp4(ziya2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E366F-CA5D-4A76-8779-A1326D0D6764}|WinFormsApp4(ziya2)\\WinFormsApp4(ziya2).csproj|c:\\users\\\u0433\u0440\u043E\u043C\\source\\repos\\winformsapp4(ziya2)\\winformsapp4(ziya2)\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81E366F-CA5D-4A76-8779-A1326D0D6764}|WinFormsApp4(ziya2)\\WinFormsApp4(ziya2).csproj|solutionrelative:winformsapp4(ziya2)\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E366F-CA5D-4A76-8779-A1326D0D6764}|WinFormsApp4(ziya2)\\WinFormsApp4(ziya2).csproj|c:\\users\\\u0433\u0440\u043E\u043C\\source\\repos\\winformsapp4(ziya2)\\winformsapp4(ziya2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81E366F-CA5D-4A76-8779-A1326D0D6764}|WinFormsApp4(ziya2)\\WinFormsApp4(ziya2).csproj|solutionrelative:winformsapp4(ziya2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E366F-CA5D-4A76-8779-A1326D0D6764}|WinFormsApp4(ziya2)\\WinFormsApp4(ziya2).csproj|C:\\Users\\\u0413\u0440\u043E\u043C\\source\\repos\\WinFormsApp4(ziya2)\\winformsapp4(ziya2)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E366F-CA5D-4A76-8779-A1326D0D6764}|WinFormsApp4(ziya2)\\WinFormsApp4(ziya2).csproj|solutionrelative:winformsapp4(ziya2)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E366F-CA5D-4A76-8779-A1326D0D6764}|WinFormsApp4(ziya2)\\WinFormsApp4(ziya2).csproj|c:\\users\\\u0433\u0440\u043E\u043C\\source\\repos\\winformsapp4(ziya2)\\winformsapp4(ziya2)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81E366F-CA5D-4A76-8779-A1326D0D6764}|WinFormsApp4(ziya2)\\WinFormsApp4(ziya2).csproj|solutionrelative:winformsapp4(ziya2)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u043E\u043C\\source\\repos\\WinFormsApp4(ziya2)\\WinFormsApp4(ziya2)\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4(ziya2)\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u043E\u043C\\source\\repos\\WinFormsApp4(ziya2)\\WinFormsApp4(ziya2)\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp4(ziya2)\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T04:10:15.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u043E\u043C\\source\\repos\\WinFormsApp4(ziya2)\\WinFormsApp4(ziya2)\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4(ziya2)\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u043E\u043C\\source\\repos\\WinFormsApp4(ziya2)\\WinFormsApp4(ziya2)\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp4(ziya2)\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T04:10:07.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u043E\u043C\\source\\repos\\WinFormsApp4(ziya2)\\WinFormsApp4(ziya2)\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4(ziya2)\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u043E\u043C\\source\\repos\\WinFormsApp4(ziya2)\\WinFormsApp4(ziya2)\\Program.cs",
+              "RelativeToolTip": "WinFormsApp4(ziya2)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T04:09:58.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u043E\u043C\\source\\repos\\WinFormsApp4(ziya2)\\WinFormsApp4(ziya2)\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4(ziya2)\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u043E\u043C\\source\\repos\\WinFormsApp4(ziya2)\\WinFormsApp4(ziya2)\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinFormsApp4(ziya2)\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T04:09:48.207Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
